@@ -10,7 +10,7 @@ COPY src ./src
 RUN mvn clean package -DskipTests
 
 # Execution
-FROM openjdk:23-jdk-slim
+FROM openjdk:17-jdk-slim
 WORKDIR /app
 
 # Copy .jar file
