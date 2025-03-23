@@ -1,0 +1,12 @@
+com\veterinary\crud_vet\service\IOwnerService.class
+com\veterinary\crud_vet\service\IPetService.class
+com\veterinary\crud_vet\model\Owner.class
+com\veterinary\crud_vet\CrudVetApplication.class
+com\veterinary\crud_vet\controller\OwnerController.class
+com\veterinary\crud_vet\service\OwnerService.class
+com\veterinary\crud_vet\repository\IPetRepository.class
+com\veterinary\crud_vet\service\PetService.class
+com\veterinary\crud_vet\repository\IOwnerRepository.class
+com\veterinary\crud_vet\controller\PetController.class
+com\veterinary\crud_vet\dto\Owner_PetDTO.class
+com\veterinary\crud_vet\model\Pet.class
